@@ -20,6 +20,6 @@ Found a bug? Want to suggest a feature? Open an issue on GitHub!
 
 👑 Authors
 
-ƁẴÅŦĔȠ (Creator & Owner)
+Ɓ3ÅŦĔR (Creator & Owner)
 
 ChatGPT (Development & Technical Support)
