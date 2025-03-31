@@ -1,25 +1,25 @@
 ShinigamiSkip 💀⏩
 
-🚀 ShinigamiSkip is an advanced tool to automatically skip anime intros and outros on streaming sites. Perfect for those who want to enjoy only the heart of the action! 🎭🔥
+🚀 ShinigamiSkip è un tool avanzato per saltare automaticamente intro e outro degli anime su siti di streaming. Perfetto per chi vuole godersi solo il cuore dell’azione! 🎭🔥
 
-✨ Features
+✨ Funzionalità
 
-✔️ Automatically skip openings and endings✔️ Compatible with multiple streaming sites✔️ Intelligent variable time detection✔️ Support for manual navigation players✔️ Ability to auto-switch episodes with automatic fullscreen✔️ Customizable interface
+✔️ Skip automatico di opening e ending✔️ Compatibile con più siti di streaming✔️ Rilevamento intelligente del minutaggio variabile✔️ Supporto a player con navigazione manuale✔️ Possibilità di auto-cambio episodio con fullscreen automatico✔️ Interfaccia personalizzabile
 
-📌 Installation
+📌 Installazione
 
-(I will add the installation method here when the code is ready)
+(Aggiungerò qui il metodo di installazione quando il codice sarà pronto)
 
-🛠️ Configuration
+🛠️ Configurazione
 
-(Customizable options, if any, will be explained here)
+(Qui verranno spiegate le opzioni personalizzabili, se presenti)
 
-📢 Support & Feedback
+📢 Supporto & Feedback
 
-Found a bug? Want to suggest a feature? Open an issue on GitHub!
+Hai trovato un bug? Vuoi suggerire una funzione? Apri un'issue su GitHub!
 
-👑 Authors
+👑 Autori
 
-Ɓ3ÅŦĔR (Creator & Owner)
+ƁẴÅŦĔȠ (Ideatore & Owner)
 
-ChatGPT (Development & Technical Support)
+ChatGPT (Sviluppo & Supporto Tecnico)
