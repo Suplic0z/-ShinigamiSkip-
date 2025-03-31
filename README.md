@@ -4,15 +4,37 @@ ShinigamiSkip 💀⏩
 
 ✨ Features
 
-✔️ Automatically skip openings and endings✔️ Compatible with multiple streaming sites✔️ Intelligent variable time detection✔️ Support for manual navigation players✔️ Ability to auto-switch episodes with automatic fullscreen✔️ Customizable interface
+✔️ Automatically skip openings and endings✔️ Compatible with AnimeWorld, AnimeUnity and other sites✔️ Intelligent detection of variable time for each episode✔️ Support for manual navigation players✔️ Auto-switch episodes and automatic fullscreen✔️ Customizable interface with advanced controls
 
-📌 Installation
+🛠️ How Does It Work?
 
-(I will add the installation method here when the code is ready)
+ShinigamiSkip uses a Tampermonkey script that:
 
-🛠️ Configuration
+Analyzes the video player and identifies its structure.
 
-(Customizable options, if any, will be explained here)
+Automatically detects the beginning and end of opening/ending.
+
+Automatically skips unwanted parts without interruptions.
+
+If enabled, it automatically changes episodes and sets fullscreen.
+
+🛠️ Installation
+
+Prerequisites:
+
+Compatible browser (Chrome, Firefox, Edge)
+
+Tampermonkey installed
+
+Steps:
+
+Install Tampermonkey from the official website.
+
+Download the ShinigamiSkip script (link coming soon).
+
+Activate the script from Tampermonkey.
+
+Enjoy anime without interruptions!
 
 📢 Support & Feedback
 
