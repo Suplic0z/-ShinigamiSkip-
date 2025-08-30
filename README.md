@@ -45,3 +45,5 @@ Found a bug? Want to suggest a feature? Open an issue on GitHub!
 Ɓ3ÅŦĔR (Creator & Owner)
 
 ChatGPT (Development & Technical Support)
+
+P.s. the script is working with AnimeWorld for now, I'm still testing it with AnimeUnity but I'm having problems. If you want to help me improve it, I'll leave the script available for everyone.
