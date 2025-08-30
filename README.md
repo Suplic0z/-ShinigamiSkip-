@@ -1,51 +1,64 @@
-ShinigamiSkip 💀⏩
+# ShinigamiSkip 💀⏩
 
-🚀 ShinigamiSkip is an advanced tool to automatically skip anime intros and outros on streaming sites. Perfect for those who want to enjoy only the heart of the action! 🎭🔥
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Script-blue?logo=googlechrome&logoColor=white)  
+![Anime Supported](https://img.shields.io/badge/Anime-Streaming-red)  
+![Status](https://img.shields.io/badge/Status-Beta-orange)  
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-✨ Features
+🚀 **ShinigamiSkip** is an advanced **Tampermonkey script** that automatically skips anime intros and outros on popular streaming sites.  
+Perfect for those who want to enjoy only the **heart of the action**! 🎭🔥  
 
-✔️ Automatically skip openings and endings✔️ Compatible with AnimeWorld, AnimeUnity and other sites✔️ Intelligent detection of variable time for each episode✔️ Support for manual navigation players✔️ Auto-switch episodes and automatic fullscreen✔️ Customizable interface with advanced controls
+---
 
-🛠️ How Does It Work?
+## ✨ Features
 
-ShinigamiSkip uses a Tampermonkey script that:
+- ✔️ Automatically skips **openings** and **endings**  
+- ✔️ Compatible with **AnimeWorld**, **AnimeUnity**, and more  
+- ✔️ **Intelligent detection** of variable times for each episode  
+- ✔️ Supports manual navigation players  
+- ✔️ **Auto-switch** episodes + automatic fullscreen  
+- ✔️ Customizable interface with advanced controls  
 
-Analyzes the video player and identifies its structure.
+---
 
-Automatically detects the beginning and end of opening/ending.
+## 🛠️ How Does It Work?
 
-Automatically skips unwanted parts without interruptions.
+The script works by analyzing the video player and applying smart skipping:
 
-If enabled, it automatically changes episodes and sets fullscreen.
+1. Scans the player structure and detects OP/ED boundaries.  
+2. Skips unwanted parts **automatically** without interruptions.  
+3. (Optional) Automatically switches to the next episode and enables fullscreen.  
 
-🛠️ Installation
+---
 
-Prerequisites:
+## ⚡ Installation
 
-Compatible browser (Chrome, Firefox, Edge)
+### Requirements:
+- A compatible browser (**Chrome, Firefox, Edge**)  
+- **Tampermonkey extension** installed  
 
-Tampermonkey installed
+### Steps:
+1. Install **Tampermonkey** from the official website.  
+2. Download the **ShinigamiSkip** script.  
+3. Enable the script in Tampermonkey.  
+4. Watch anime without interruptions! 🎬  
 
-Steps:
+---
 
-Install Tampermonkey from the official website.
+## 📢 Support & Feedback
 
-Download the ShinigamiSkip script.
+Found a bug? Want to suggest a feature?  
+➡️ Open an **Issue** on GitHub and help improve the project!  
 
-Activate the script from Tampermonkey.
+---
 
-Enjoy anime without interruptions!
+## 👑 Authors
 
-📢 Support & Feedback
+- **Ɓ3ÅŦĔR** – Creator & Owner  
+- **ChatGPT · Qwen · Claude · DeepSeek** – Development & Technical Support  
 
-Found a bug? Want to suggest a feature? Open an issue on GitHub!
+---
 
-👑 Authors
-
-Ɓ3ÅŦĔR (Creator & Owner)
-
-ChatGPT-Qwen-Claude & DeepSeek (Development & Technical Support)
-
-P.s. the script is working with AnimeWorld for now, I'm still testing it with AnimeUnity but I'm having problems. If you want to help me improve it, I'll leave the script available for everyone.
-
-
+> 📝 **Note**: Currently works flawlessly with **AnimeWorld**.  
+Support for **AnimeUnity** is in testing, but issues may occur.  
+The script is public – feel free to contribute and improve it!  
