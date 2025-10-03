@@ -57,8 +57,12 @@ Found a bug? Want to suggest a feature?
 - **Ɓ3ÅŦĔR** – Creator & Owner  
 - **ChatGPT · Qwen · Claude · DeepSeek** – Development & Technical Support  
 
+P.s.
+We only have one bug: the skip only works at the beginning of an episode; it doesn't work properly on episodes with the beginning of other minutes. We're working on this update and are having some conflicts. 
+Do you want to help me improve this code? And participate as a beta tester for my next projects? Leave a star ⭐ and message me so we can discuss it.
 ---
 
 > 📝 **Note**: Currently works flawlessly with **AnimeWorld**.  
 Support for **AnimeUnity** is in testing, but issues may occur.  
 The script is public – feel free to contribute and improve it!  
+
