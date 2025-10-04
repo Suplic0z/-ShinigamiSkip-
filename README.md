@@ -1,4 +1,4 @@
-# ShinigamiSkip 💀⏩
+# 死神ShinigamiSkip死神 💀⏩
 
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Script-blue?logo=googlechrome&logoColor=white)  
 ![Anime Supported](https://img.shields.io/badge/Anime-Streaming-red)  
@@ -65,5 +65,6 @@ Do you want to help me improve this code? And participate as a "Beta" tester for
 > 📝 **Note**: Currently works flawlessly with **AnimeWorld**.  
 Support for **AnimeUnity** is in testing, but issues may occur.  
 The script is public – feel free to contribute and improve it!  
+
 
 
